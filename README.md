@@ -1,1 +1,2 @@
-# My_task
+TASK 1 
+ACID Properties
